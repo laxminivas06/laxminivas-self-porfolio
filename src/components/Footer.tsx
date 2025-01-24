@@ -24,7 +24,7 @@ const socialLinks = [
   {
     icon: Linkedin,
     label: 'LinkedIn',
-    href: 'https://www.linkedin.com/in/laxmi-nivas-morishetty-02468m?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app',
+    href: 'www.linkedin.com/in/laxmi-nivas-morishetty-02468m',
   },
   
   {
