@@ -83,7 +83,7 @@ const Hero = () => {
           >
             <div className="relative w-full aspect-square max-w-md mx-auto">
               <img
-                src="images/hello.jpg"
+                src="https://i.postimg.cc/kgLQb8bz/hello.jpg"
                 alt="Laxmi Nivas Morishetty"
                 className="w-full h-full object-cover rounded-3xl shadow-2xl"
               />
