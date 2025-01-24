@@ -55,7 +55,7 @@ function App() {
         className="cursor-pointer flex items-center"
         >
         <img
-          src="images/lg101.png" // Replace with the actual path to your image
+          src="https://i.postimg.cc/mDyCJ55W/lg101.png" // Replace with the actual path to your image
           alt="Laxmi Groups"
           className="h-50 w-20" // Adjust the height and width as needed
         />
