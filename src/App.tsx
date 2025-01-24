@@ -43,7 +43,7 @@ function App() {
   return (
     <div className="font-poppins bg-white dark:bg-gray-900 transition-colors duration-300">
       {/* Navigation */}
-      <nav className="fixed w-full h-30 bg-white/80 dark:bg-gray-900/80 backdrop-blur-lg z-50 py-2">
+      <nav className="fixed w-full h-30 bg-white/100 dark:bg-gray-900/80 backdrop-blur-lg z-50 py-2">
       <div className="container mx-auto px-4">
         <div className="flex justify-between items-center">
         <ScrollLink
