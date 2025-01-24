@@ -30,7 +30,7 @@ const Hero = () => {
           ))}
         </div>
       </div>
-      <div className="relative z-10 text-center px-4 mt-80">
+      <div className="relative z-10 text-center px-4 mt-60">
         <h1 className="text-4xl md:text-6xl font-bold font-montserrat mb-6 text-gray-900 dark:text-white">
           Hi, I'm{' '}
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary-600 to-accent-600">
@@ -54,6 +54,10 @@ const Hero = () => {
             repeat={Infinity}
           />
         </div>
+      
+      <p className="text-lg text-gray-600 dark:text-gray-400 mb-8 font-serif">
+          “A visionary mind shaping the future through innovation and purpose. Passionate about bridging the gap between knowledge and real-world impact, with an unwavering drive to inspire and create meaningful change.”
+        </p>
         <ScrollLink
           to="about"
           spy={true}
