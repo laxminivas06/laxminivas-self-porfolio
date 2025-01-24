@@ -24,13 +24,13 @@ const socialLinks = [
   {
     icon: Linkedin,
     label: 'LinkedIn',
-    href: 'https://linkedin.com/in/laxminivas',
+    href: 'https://www.linkedin.com/in/laxmi-nivas-morishetty-02468m/',
   },
   
   {
     icon: Instagram,
     label: 'Instagram',
-    href: 'https://instagram.com/laxminivas',
+    href: 'https://www.instagram.com/laxminivasmorishetty/',
   },
 ];
 
