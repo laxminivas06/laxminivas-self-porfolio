@@ -30,7 +30,7 @@ const Hero = () => {
           ))}
         </div>
       </div>
-      <div className="relative z-10 text-center px-4 mt-60">
+      <div className="relative z-10 text-center px-4 mt-80">
         <h1 className="text-4xl md:text-6xl font-bold font-montserrat mb-6 text-gray-900 dark:text-white">
           Hi, I'm{' '}
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary-600 to-accent-600">
