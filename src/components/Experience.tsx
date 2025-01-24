@@ -43,14 +43,14 @@ const organizations = [
     ],
     projects: [
       {
-        title: 'Smart Home Automation',
+        title: 'Real Time Applications',
         description: 'Energy-efficient home control system',
-        image: 'images/iot.jpeg',
+        image: 'https://www.device42.com/blog/wp-content/uploads/2023/03/14_01edge-cloud-computing-900x600.jpg',
       },
       {
-        title: 'IoT Weather Station',
+        title: 'IoT',
         description: 'Real-time environmental monitoring system',
-        image: 'images/rt.jpeg',
+        image: 'https://abusix.com/wp-content/uploads/2024/06/4324868-18754_4be9a1b0dddc6b59a5fbcaf2ca214150_2000.jpeg',
       },
     ],
   },
@@ -95,7 +95,7 @@ const organizations = [
       {
         title: 'Practical Learning Lab',
         description: 'Hands-on experience center for students',
-        image: 'images/pl.png',
+        image: 'https://partners.skoolz.in/blogs/68cbc46a-0857-4ab3-82f3-873f7e4a36d2_BlogDescription.png',
       },
       {
         title: 'Industry Connect Program',
